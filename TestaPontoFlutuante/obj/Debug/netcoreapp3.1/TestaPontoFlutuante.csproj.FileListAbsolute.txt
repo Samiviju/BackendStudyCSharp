@@ -1,0 +1,13 @@
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\bin\Debug\netcoreapp3.1\TestaPontoFlutuante.exe
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\bin\Debug\netcoreapp3.1\TestaPontoFlutuante.deps.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\bin\Debug\netcoreapp3.1\TestaPontoFlutuante.runtimeconfig.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\bin\Debug\netcoreapp3.1\TestaPontoFlutuante.runtimeconfig.dev.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\bin\Debug\netcoreapp3.1\TestaPontoFlutuante.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\bin\Debug\netcoreapp3.1\TestaPontoFlutuante.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\obj\Debug\netcoreapp3.1\TestaPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\obj\Debug\netcoreapp3.1\TestaPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\obj\Debug\netcoreapp3.1\TestaPontoFlutuante.AssemblyInfo.cs
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\obj\Debug\netcoreapp3.1\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\obj\Debug\netcoreapp3.1\TestaPontoFlutuante.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\obj\Debug\netcoreapp3.1\TestaPontoFlutuante.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\TestaPontoFlutuante\obj\Debug\netcoreapp3.1\TestaPontoFlutuante.genruntimeconfig.cache

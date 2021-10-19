@@ -1,0 +1,13 @@
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\bin\Debug\netcoreapp3.1\5-TesteCaracteresETextos.exe
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\bin\Debug\netcoreapp3.1\5-TesteCaracteresETextos.deps.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\bin\Debug\netcoreapp3.1\5-TesteCaracteresETextos.runtimeconfig.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\bin\Debug\netcoreapp3.1\5-TesteCaracteresETextos.runtimeconfig.dev.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\bin\Debug\netcoreapp3.1\5-TesteCaracteresETextos.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\bin\Debug\netcoreapp3.1\5-TesteCaracteresETextos.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\obj\Debug\netcoreapp3.1\5-TesteCaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\obj\Debug\netcoreapp3.1\5-TesteCaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\obj\Debug\netcoreapp3.1\5-TesteCaracteresETextos.AssemblyInfo.cs
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\obj\Debug\netcoreapp3.1\5-TesteCaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\obj\Debug\netcoreapp3.1\5-TesteCaracteresETextos.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\obj\Debug\netcoreapp3.1\5-TesteCaracteresETextos.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\5-TesteCaracteresETextos\obj\Debug\netcoreapp3.1\5-TesteCaracteresETextos.genruntimeconfig.cache

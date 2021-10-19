@@ -1,0 +1,14 @@
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.exe
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.deps.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.runtimeconfig.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.runtimeconfig.dev.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.csproj.AssemblyReference.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.AssemblyInfoInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.AssemblyInfo.cs
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.csproj.CoreCompileInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\3-CriandoVariaveisPontoFlutante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutante.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\bin\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.exe
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\bin\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.deps.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\bin\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.runtimeconfig.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\bin\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.runtimeconfig.dev.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\bin\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\bin\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\obj\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\obj\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.AssemblyInfoInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\obj\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.AssemblyInfo.cs
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\obj\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\obj\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\obj\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\ConversoesEOutrostiposNumericos\obj\Debug\netcoreapp3.1\ConversoesEOutrostiposNumericos.genruntimeconfig.cache

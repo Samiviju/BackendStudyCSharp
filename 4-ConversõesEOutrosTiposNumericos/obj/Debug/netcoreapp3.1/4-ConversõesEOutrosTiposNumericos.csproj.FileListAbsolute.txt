@@ -1,0 +1,13 @@
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.exe
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.deps.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\4-ConversõesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversõesEOutrosTiposNumericos.genruntimeconfig.cache

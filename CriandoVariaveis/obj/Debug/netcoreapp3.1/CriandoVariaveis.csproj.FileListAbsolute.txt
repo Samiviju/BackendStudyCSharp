@@ -1,0 +1,14 @@
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\bin\Debug\netcoreapp3.1\CriandoVariaveis.exe
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\bin\Debug\netcoreapp3.1\CriandoVariaveis.deps.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\bin\Debug\netcoreapp3.1\CriandoVariaveis.runtimeconfig.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\bin\Debug\netcoreapp3.1\CriandoVariaveis.runtimeconfig.dev.json
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\bin\Debug\netcoreapp3.1\CriandoVariaveis.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\bin\Debug\netcoreapp3.1\CriandoVariaveis.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.AssemblyInfo.cs
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.dll
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.pdb
+C:\Users\samuel.vieira\source\repos\ProjetoEstudando\CriandoVariaveis\obj\Debug\netcoreapp3.1\CriandoVariaveis.genruntimeconfig.cache
